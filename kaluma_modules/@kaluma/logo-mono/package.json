@@ -1,0 +1,9 @@
+{
+  "name": "kaluma-logo",
+  "description": "",
+  "main": "index.js",
+  "entry": "index.js",
+  "bundle": {
+    "mode": "development"
+  }
+}

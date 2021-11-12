@@ -1,0 +1,9 @@
+{
+  "name": "font-minimal",
+  "description": "",
+  "main": "index.js",
+  "entry": "index.js",
+  "bundle": {
+    "mode": "development"
+  }
+}

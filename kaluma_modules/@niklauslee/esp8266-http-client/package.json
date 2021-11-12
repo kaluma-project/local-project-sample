@@ -1,0 +1,7 @@
+{
+  "name": "esp8266-http-client",
+  "description": "A simple HTTP client for ESP8266 module",
+  "bundle": {
+    "mode": "development"
+  }
+}

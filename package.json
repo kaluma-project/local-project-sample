@@ -1,0 +1,19 @@
+{
+  "name": "desktop-clock",
+  "description": "",
+  "main": "index.js",
+  "entry": "index.js",
+  "bundle": {
+    "mode": "development"
+  },
+  "dependencies": {
+    "@niklauslee/font-minimal": "1.0.0",
+    "@niklauslee/ssd1306-i2c": "1.1.0",
+    "@kaluma/logo-mono": "1.0.0",
+    "@niklauslee/esp8266-http-client": "1.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.64.0",
+    "webpack-cli": "^4.9.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ssd1306-i2c",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@niklauslee/font-lee-sans": "1.0.0",
+    "@kaluma/logo-mono": "1.0.0"
+  },
+  "entry": [
+    "ex_128x64.js",
+    "ex_128x32.js"
+  ],
+  "bundle": {
+    "mode": "development"
+  }
+}
