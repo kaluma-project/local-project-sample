@@ -30,7 +30,7 @@ kaluma_modules/
     logo-mono/
 ```
 
-
+The downloaded modules could have it's dependencies, so the dependencies should be downloaded and extracted into `kaluma_modules` recursively.
 
 ## Setup Webpack
 
